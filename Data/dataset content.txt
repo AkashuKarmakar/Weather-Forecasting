@@ -1,0 +1,19 @@
+dataset
+1.in this Atmospheric_variable folder there are total 5 no of sub folder
+	a. IMDAA_HGT_prl_1.08_1990_2020
+	b. IMDAA_RH_prl_1.08_1990_2020
+	c. IMDAA_TMP_prl_1.08_1990_2020
+	d. IMDAA_UGRD_prl_1.08_1990_2020
+	e. IMDAA_VGRD_prl_1.08_1990_2020
+the 5 folder inside the a folder contain vast amount of .nc file
+2. in Constants folder there is two files
+	a. IMDAA_LAND_sfc_1.08_1990_2020.nc
+	b. IMDAA_MTERH_sfc_1.08_1990_2020.nc
+3. in Surface_variables folder contains  total 5 files
+	a. IMDAA_APCP_sfc_1.08_1990_2020.nc
+	b. IMDAA_PRMSL_msl_1.08_1990_2020.nc
+	c. IMDAA_TMP_2m_1.08_1990_2020.nc
+	d. IMDAA_UGRD_10m_1.08_1990_2020.nc
+	e. IMDAA_VGRD_10m_1.08_1990_2020.nc 
+these dataset are weather dataset contained data from 1990 to 2020 .
+i want to build a machine learning model including all the dataset present in Atmospheric_variable, Constants ,  Surface_variables folders
