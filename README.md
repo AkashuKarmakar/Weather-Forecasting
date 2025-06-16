@@ -81,7 +81,8 @@ After training the models using weather_prediction2.0.ipynb, use prediction.ipyn
 	*Model Details*
 
 Random Forest Regressor: An ensemble learning method that operates by constructing a multitude of decision trees at training time and outputting the mean prediction of the individual trees. Hyperparameters are tuned using RandomizedSearchCV.
-Long Short-Term Memory (LSTM): A type of recurrent neural network (RNN) well-suited for sequence prediction problems due to its ability to learn long-term dependencies.
+Long Short-Term Memory (LSTM): A type of recurrent neural network (RNN) well-suited for sequence prediction problems due to its ability to learn long-term dependencies. 
+The models are uploaded at 'https://huggingface.co/AkashuKarmakar/Random_forest_weather_forecast/tree/main'
 
 	*Evaluation Metrics*
 
