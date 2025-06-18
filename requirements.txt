@@ -12,4 +12,3 @@ matplotlib
 seaborn
 plotly
 h5py
-scipy
