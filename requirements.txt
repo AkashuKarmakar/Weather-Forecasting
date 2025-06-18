@@ -1,14 +1,7 @@
-numpy
-pandas
-scikit-learn
-joblib
-xarray
-netCDF4
-tensorflow
-tensorflow.keras.models
-keras
-streamlit
-matplotlib
-seaborn
-plotly
-h5py
+streamlit==1.36.0 # Pin Streamlit to a known good version
+pandas==2.2.2    # Pin pandas to a known good version
+numpy==1.26.4    # Pin numpy to a known good version
+joblib==1.4.2    # Pin joblib to a known good version
+tensorflow==2.16.1 # Pin TensorFlow to a known good version
+scikit-learn==1.5.0 # Pin scikit-learn to a known good version
+h5py==3.11.0     # Pin h5py to a known good version
