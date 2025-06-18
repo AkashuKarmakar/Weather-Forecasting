@@ -1,14 +1,14 @@
 numpy
 pandas
 scikit-learn
-matplotlib
-seaborn
+joblib
 xarray
 netCDF4
 tensorflow
 keras
 streamlit
-joblib
+matplotlib
+seaborn
 plotly
 h5py
 scipy
