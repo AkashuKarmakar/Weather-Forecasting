@@ -5,6 +5,7 @@ joblib
 xarray
 netCDF4
 tensorflow
+tensorflow.keras.models
 keras
 streamlit
 matplotlib
