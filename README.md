@@ -21,6 +21,8 @@ Data Preprocessing: Loads and processes atmospheric variables (Geopotential Heig
 Feature Engineering: Generates lag features, rolling means, and time-based features (month, day of year) to enhance model performance.
 Multi-Step Prediction: Capable of forecasting temperature for t+1, t+2, and t+3 days.
 
+Dataset LInk:- 'https://www.kaggle.com/datasets/maslab/bharatbench'
+
 Model Training:
 
 Random Forest Regressor: Includes hyperparameter tuning using RandomizedSearchCV.
