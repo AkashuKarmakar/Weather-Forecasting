@@ -22,6 +22,7 @@ Feature Engineering: Generates lag features, rolling means, and time-based featu
 Multi-Step Prediction: Capable of forecasting temperature for t+1, t+2, and t+3 days.
 
 Dataset LInk:- 'https://www.kaggle.com/datasets/maslab/bharatbench'
+About the data :- 'Data/BharatBench Dataset.pdf'
 
 Model Training:
 
